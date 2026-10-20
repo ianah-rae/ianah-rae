@@ -1,20 +1,24 @@
-## 🪻Hi, I'm Ianah, a data analytics & engineering consultant at the Information Lab!
-🪻
 
-<p>I love getting into the nitty-gritty of data and helping others make sense of it, too! Making pretty vizzes will always be my favorite part.<p>
+<img src="assets/newbanner.png" width="100%" alt="Moonlight banner">
 
-![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F4Mzg2eXNnbWpndGhjbHJrbjA4MXBmcmlmOHBjMDFrYWc2dnNnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif)
+<h1>I love getting into the nitty-gritty of data and helping others make sense of it, too! Making pretty vizzes will always be my favorite part.</h1>
 
-<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F4Mzg2eXNnbWpndGhjbHJrbjA4MXBmcmlmOHBjMDFrYWc2dnNnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" alt="My GIF">
+</p>
 
+---
 
+## ☑️ Certifications
 
-<h1>☑️ Certifications ☑️<h1>
+Loading...
 
-<p>Loading...<p>
+---
 
-<br>
+## 💡 Projects
 
-<h2>💡Projects💡<h2>
+### Booked for the Screen
+[View Tableau Dashboard](https://public.tableau.com/app/profile/ianah.rae.bantay/viz/BookedfortheScreenV2/Dashboard1)
 
-
+### World Cup Power
+[View Tableau Dashboard](https://public.tableau.com/app/profile/ianah.rae.bantay/viz/WorldCupAnalysis_17835613221710/WorldCupPower)
