@@ -1,7 +1,7 @@
 
 <img src="assets/newbanner.png" width="100%" alt="Moonlight banner">
 
-<p>I love getting into the nitty-gritty of data and helping others make sense of it, too! Making pretty vizzes will always be my favorite part.</p>
+<h1>I love digging into the nitty-gritty of data, figuring out what it all means, and finding ways to make it easier for others to understand. Although, I'll always have a soft spot for making pretty vizzes!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F4Mzg2eXNnbWpndGhjbHJrbjA4MXBmcmlmOHBjMDFrYWc2dnNnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" alt="My GIF">
