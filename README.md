@@ -1,8 +1,21 @@
-## Hi! 🌺
+## 🪻Hi, I'm Ianah, a data analytics & engineering consultant at the Information Lab!
+🪻
 
-My name is Ianah, a data analytics & engineering consultant at the Information Lab!
+<p>I love getting into the nitty-gritty of data and helping others make sense of it, too! Making pretty vizzes will always be my favorite part.<p>
+
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F4Mzg2eXNnbWpndGhjbHJrbjA4MXBmcmlmOHBjMDFrYWc2dnNnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif)
+
+<br>
 
 
+
+<h1>☑️ Certifications ☑️<h1>
+
+<p>Loading...<p>
+
+<br>
+
+<h2>💡Projects💡<h2>
 ☑️ Certifications ☑️
 Loading...
 
@@ -15,14 +28,4 @@ https://public.tableau.com/app/profile/ianah.rae.bantay/viz/WorldCupAnalysis_178
 <!--
 **ianah-rae/ianah-rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
