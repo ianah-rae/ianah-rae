@@ -1,6 +1,9 @@
 ## Hi! 🌺
 
 My name is Ianah, a data analytics & engineering consultant at the Information Lab!
+
+
+☑️ Certifications ☑️
 <!--
 **ianah-rae/ianah-rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
