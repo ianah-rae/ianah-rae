@@ -4,6 +4,14 @@ My name is Ianah, a data analytics & engineering consultant at the Information L
 
 
 ☑️ Certifications ☑️
+Loading...
+
+💡 Projects 💡
+
+DS Application -->
+https://public.tableau.com/app/profile/ianah.rae.bantay/viz/BookedfortheScreenV2/Dashboard1
+https://public.tableau.com/app/profile/ianah.rae.bantay/viz/WorldCupAnalysis_17835613221710/WorldCupPower
+
 <!--
 **ianah-rae/ianah-rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
