@@ -1,5 +1,5 @@
 
-# 🪻 Hi, I'm Ianah, a Data Analytics & Engineering Consultant at The Information Lab! 🪻
+<img src="c:\Users\Ianah Rae\Downloads\Your paragraph text.png" width="100%" alt="Moonlight banner">
 
 <p>I love getting into the nitty-gritty of data and helping others make sense of it, too! Making pretty vizzes will always be my favorite part.</p>
 
